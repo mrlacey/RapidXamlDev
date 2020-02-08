@@ -5,17 +5,9 @@ author: Matt Lacey
 description: Tools to accelerate XAML app development.
 url: "https://rapidxaml.dev/"
 
-# THEME SETTINGS
-navigation: # Navigation links
-  - {name: 'Home', link: '/'}
-  - {name: 'About', link: '/about'}
-  - {name: 'Contact', link: '/contact'}
-
 tagline: Tools to accelerate XAML app development.
 
 hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
-email: matt@rapidxaml.dev # email for form submission
-
-twitter_username: mrlacey # replace with your_twitter_username or comment to remove link from footer
-github_username:  mrlacey # replace with your_github_username or comment to remove link from footer
+twitter_username: mrlacey
+github_username:  mrlacey
