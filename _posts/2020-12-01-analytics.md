@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Getting Started with Sleek
+title: XAML Analytics
 featured-img: sleek
 mathjax: true
 ---
