@@ -11,3 +11,7 @@ hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/
 
 twitter_username: mrlacey
 github_username:  mrlacey/rapidxamldev
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
