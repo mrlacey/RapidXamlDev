@@ -1,8 +1,8 @@
 ---
 layout: post
 title: XAML Generation
-featured-img: shane-rounce-205187
 summary: Tools to accelerate XAML app development by generating XAML.
+featured-img: generation
 permalink: generation
 ---
 
