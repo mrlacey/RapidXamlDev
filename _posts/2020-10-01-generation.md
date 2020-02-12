@@ -7,3 +7,7 @@ permalink: generation
 ---
 
 Content to follow ...
+
+---
+
+This extension includes some functionality that is dependent upon the [Common functionality](./common).
