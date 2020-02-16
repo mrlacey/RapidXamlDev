@@ -13,8 +13,8 @@ Whether you have money or not, there are things you can do to help support the o
 
 Even if you don't have any money, there are lots of ways to support and help the growth and continuation of development.
 
-- It only takes a few seconds to **rate these tools**. -Ratings show other potential users that you have found value from using these tools._
-- If you have a little more time, please **leave a review**. _Reviews help others understand how these tools might help them. They're also a great encouragement to keep developing the tools._
+- It only takes a few seconds to [**rate these tools**](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.RapidXamlToolkit&ssr=false#review-details). -Ratings show other potential users that you have found value from using these tools._
+- If you have a little more time, please [**leave a review**](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.RapidXamlToolkit&ssr=false#review-details). _Reviews help others understand how these tools might help them. They're also a great encouragement to keep developing the tools._
 - **Tell people** about the tools and how you're using them. It could be a tweet, a blog post, a talk, or anything. Even just a chat with a co-worker.
 - **Suggest new features and functionality**. [Create an issue](https://github.com/mrlacey/Rapid-XAML-Toolkit/issues/new/choose) with details of what you want, need, or would like to see.
 - **Contribute** to the code, docs, or anything else.
