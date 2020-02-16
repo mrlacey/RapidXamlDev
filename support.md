@@ -27,7 +27,7 @@ If you're using these tools as part of professional development, consider paying
 
 - **Show your ongoing support** by [becoming a sponsor](https://github.com/sponsors/mrlacey). There are sponsorship levels to support all budgets.
 - **Make a one-time contribution** through [buymeacoffee](https://www.buymeacoffee.com/mrlacey) or [ko-fi](https://ko-fi.com/mrlacey). :coffee:
-- Get in touch to discuss other options, such as **Paid support**, **Training** or **Custom development**.
+- [Get in touch](mailto:support@rapidxaml.dev) to discuss other options, such as **Paid support**, **Training** or **Custom development**.
 
 ## Get support
 
