@@ -26,7 +26,7 @@ While the tools are available for free, the time spent developing and maintainin
 If you're using these tools as part of professional development, consider paying that forward by providing financial support.
 
 - **Show your ongoing support** by [becoming a sponsor](https://github.com/sponsors/mrlacey). There are sponsorship levels to support all budgets.
-- **Make a one-time contribution** through [buymeacoffee](https://www.buymeacoffee.com/mrlacey) or [ko-fi](https://ko-fi.com/mrlacey). :coffee:
+- **Make a one-time contribution** through [buymeacoffee](https://www.buymeacoffee.com/mrlacey) or [ko-fi](https://ko-fi.com/mrlacey).
 - [Get in touch](mailto:support@rapidxaml.dev) to discuss other options, such as **Paid support**, **Training** or **Custom development**.
 
 ## Get support
