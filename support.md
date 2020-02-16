@@ -33,5 +33,5 @@ If you're using these tools as part of professional development, consider paying
 
 If you need help or have a question, there are a couple of options available.
 
-- If you encounter a bug or have a question, please [raise an issue on GitHub](https://github.com/mrlacey/Rapid-XAML-Toolkit/issues/new/choose) with details.
-- Enquire about paid support by emailing [support@rapidxaml.dev](mailto:support@rapidxaml.dev).
+- If you encounter a **bug** or have a **question**, please [raise an issue on GitHub](https://github.com/mrlacey/Rapid-XAML-Toolkit/issues/new/choose) with details.
+- Enquire about **paid support** by emailing [support@rapidxaml.dev](mailto:support@rapidxaml.dev).
