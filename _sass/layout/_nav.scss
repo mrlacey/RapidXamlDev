@@ -167,6 +167,12 @@
     padding: 0;
   }
 
+  .header__link-emphasis {
+    background-color: $link-color;
+    color: white;
+    font-weight: bold;
+  }
+  
   .header__link {
     position: relative;
     padding: .938rem 1rem;
