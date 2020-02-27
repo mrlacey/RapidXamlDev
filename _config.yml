@@ -2,12 +2,13 @@
 # SITE CONFIGURATION
 title: Rapid XAML
 author: Matt Lacey
-description: >
-  Tools to accelerate XAML app development.
-  Don't waste time writing XAML.
+description: Tools to accelerate XAML app development.
 url: "https://rapidxaml.dev/"
 
-tagline: Tools to accelerate XAML app development.
+tagline: >
+  Tools to accelerate XAML app development.
+  Don't waste time writing XAML.
+encoding: UTF-8
 
 #hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 hero_img: posts/toolkit.png
