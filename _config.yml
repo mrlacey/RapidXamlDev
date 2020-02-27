@@ -2,7 +2,9 @@
 # SITE CONFIGURATION
 title: Rapid XAML
 author: Matt Lacey
-description: Tools to accelerate XAML app development.
+description: >
+  Tools to accelerate XAML app development.
+  Don't waste time writing XAML.
 url: "https://rapidxaml.dev/"
 
 tagline: Tools to accelerate XAML app development.
