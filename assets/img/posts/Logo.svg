@@ -15,10 +15,10 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   sodipodi:docname="Logo - Copy.svg"
-   inkscape:export-xdpi="96"
-   inkscape:export-ydpi="96"
-   inkscape:export-filename="C:\Users\matt\Documents\GitHub\RapidXamlDev\assets\img\posts\analysis.png"
+   sodipodi:docname="Logo.svg"
+   inkscape:export-xdpi="380.42999"
+   inkscape:export-ydpi="380.42999"
+   inkscape:export-filename="C:\Users\matt\Documents\GitHub\RapidXamlDev\assets\img\posts\customanalysis.png"
    style="enable-background:new">
   <metadata
      id="metadata28">
@@ -28,7 +28,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -48,12 +48,12 @@
      id="namedview24"
      showgrid="false"
      inkscape:zoom="1.3037281"
-     inkscape:cx="-21.292101"
+     inkscape:cx="-212.28285"
      inkscape:cy="107.4182"
      inkscape:window-x="-13"
      inkscape:window-y="-13"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer6" />
+     inkscape:current-layer="layer2" />
   <g
      inkscape:groupmode="layer"
      id="layer6"
@@ -61,7 +61,7 @@
      style="display:inline"
      transform="translate(0,67)">
     <rect
-       style="display:inline;fill:#c0c0c0;fill-opacity:1;stroke:none;stroke-width:1.69466865;filter:url(#filter4154)"
+       style="display:inline;fill:#663399;fill-opacity:1;stroke:none;stroke-width:1.69466865;filter:url(#filter4154)"
        id="rect4151"
        width="577.21655"
        height="325.61154"
@@ -265,6 +265,20 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-729.36216)"
-     style="display:none;opacity:1"
+     style="display:inline;opacity:1"
      sodipodi:insensitive="true" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="overlay"
+     sodipodi:insensitive="true"
+     style="display:none">
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:0.39215686;stroke:none;stroke-width:58.03105545;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect847"
+       width="577.21655"
+       height="325.61154"
+       x="0.46828461"
+       y="-2.3221741" />
+  </g>
 </svg>
