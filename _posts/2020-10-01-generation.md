@@ -8,7 +8,7 @@ permalink: generation
 
 Instantly generate XAML from your ViewModels (or any other class.) Select the class, property, or group of properties then right-click and select Rapid XAML > **Copy as XAML**.
 
-![Copy as XAML context menu](#)
+![Copy as XAML context menu](./assets/img/posts/copy-as-xaml-menu.png)
 
 You can then paste the generated XAML where you want it.
 
