@@ -20,4 +20,4 @@ more templates are coming...
 
 ---
 
-The Rapid XAML Templates are [included when you **install the Toolkit**](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.RapidXamlToolkit) but can also be [installed separately](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.RapidXamlTemplates).
+The Rapid XAML Templates are [included when you **install the Toolkit**](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.RapidXamlToolkit) but are also available [separately](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.RapidXamlTemplates).
