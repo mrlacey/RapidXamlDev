@@ -10,11 +10,11 @@ The following templates are included as part of the toolkit.
 
 ## Project templates
 
-- **Custom XAML Analyzer project** to help create [Custom XAML Analyzers](./custom-analysis)
+- **Custom XAML Analyzer project** to help create [custom XAML Analyzers](./custom-analysis)
 
 ## Item templates
 
-- **Custom XAML Analyzer** to help create [Custom XAML Analyzers](./custom-analysis)
+- **Custom XAML Analyzer** to help create a [custom XAML Analyzer](./custom-analysis)
 
 more templates are coming...
 
