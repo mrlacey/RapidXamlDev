@@ -12,7 +12,7 @@ Instantly generate XAML from your ViewModels (or any other class.) Select the cl
 
 You can then paste the generated XAML where you want it.
 
-Or generate XAML for the entire class by dragging the file onto the XAML editor.
+Or generate XAML for the entire class by **dragging the file** onto the XAML editor.
 
 ![Example of dragging and dropping a ViewModel onto the editor](#)
 
