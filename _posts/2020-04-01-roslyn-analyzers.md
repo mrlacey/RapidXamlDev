@@ -14,7 +14,7 @@ The following helpers are provided. They are not intended to find and fix proble
 
 If the auto-property is in a class that implements `INotifyPropertyChanged` or inherits from a class that does, an option to convert the property will be provided. The setter of the expanded property will call `OnPropertyChanged`. Additionally, if the (base) class has helper methods for `Set` or `SetProperty` options that call these methods are presented too.
 
-![Visual Studio editor showing suggested actions for changing the property definition](#)
+![Visual Studio editor showing suggested actions for changing the property definition](./assets/img/posts/to-property-changed.png)
 
 ## Convert auto-property to `DependencyProperty` or `BindableProperty`
 
