@@ -21,7 +21,7 @@ If the auto-property is in a class that implements `INotifyPropertyChanged` or i
 If you have an existing property but need to turn it into a `DependencyProperty` or `BindableProperty`, it can be hard to remember how and be more work (keystrokes) than you should expend on such a task. You could delete it and use a snippet to generate a new one with the same name, but that can feel counter-intuitive.
 This "fix" is offered for any auto-property in a class that inherits from `DependencyObject` or `BindableObject`.
 
-![Visual Studio editor showing suggested actions for changing to a dependency property](#)
+![Visual Studio editor showing suggested actions for changing to a dependency property](./assets/img/posts/to-dependency-property.png)
 
 **Note.** These analyzers are currently only available for C#.
 
