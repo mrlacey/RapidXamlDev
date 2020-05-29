@@ -14,7 +14,7 @@ You can then paste the generated XAML where you want it.
 
 Or generate XAML for the entire class by **dragging the file** onto the XAML editor.
 
-![Example of dragging and dropping a ViewModel onto the editor](#)
+![Example of dragging and dropping a ViewModel onto the editor](./assets/img/posts/drag-drop-generation.gif)
 
 Whether you're building a **WPF**, **UWP**, or **Xamarin.Forms**, it's pre-configured with a number of options but can also be configured to produce the XAML you would write yourself.
 
