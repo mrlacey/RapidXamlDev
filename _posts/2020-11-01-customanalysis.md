@@ -8,11 +8,11 @@ permalink: custom-analysis
 
 Create your own analyzers to check that the controls in your XAML files are used the way you want and need them to be.
 
-![Custom warnings displayed for a custom XAML control](#)
+![Custom warnings displayed for a custom XAML control](./assets/img/posts/example-custom-errors.png)
 
 If you say how an issue should be addressed, integration with Visual Studio handles display actions and making changes to the document.
 
-![List of Quick Actions displayed in the Visual Studio XAML editor](#)
+![List of Quick Actions displayed in the Visual Studio XAML editor](./assets/img/posts/example-custom-quickaction.png)
 
 There are [full details on creating custom analyzers](https://github.com/mrlacey/Rapid-XAML-Toolkit/blob/master/docs/custom-analysis.md) on GitHub.
 
