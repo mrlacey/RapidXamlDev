@@ -20,4 +20,4 @@ This functionality is provided through a [NuGet package](https://www.nuget.org/p
 
 ---
 
-To make use of your custom analyzers, you need the [XAML Analysis tool](./analysis) installed which you get as [part of the Toolkit](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.RapidXamlToolkit). [Project and item templates](./templates) exist to make authoring custom analyzers easy.
+To make use of your custom analyzers, you need the [XAML Analysis tool](./analysis) installed which you get as [part of the Toolkit](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.RapidXamlToolkit). [Project and item templates](./templates) also exist to make authoring custom analyzers easy.
