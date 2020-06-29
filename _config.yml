@@ -7,7 +7,7 @@ url: "https://rapidxaml.dev/"
 
 tagline: >
   Tools to accelerate XAML app development in Visual Studio.<br />
-  Don't waste time writing XAML.
+  Don't waste time writing XAML!
 encoding: UTF-8
 
 #hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
