@@ -90,7 +90,7 @@ layout: compress
         </div>
       </div>-->
       <div class="post-content">
-        {% assign posts_of_interest = site.posts | where_exp:"item", "item.title != Common functionality" %}
+        {% assign posts_of_interest = site.posts | where_exp:"item", "item.title contains Common" %}
         {% for post in posts_of_interest %}
         <a href="{{site.baseurl}}/{{post.permalink}}">{{post.title}}</a>
         {% unless forloop.last %}&nbsp;|&nbsp;{% endunless %}
