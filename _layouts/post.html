@@ -91,7 +91,7 @@ layout: compress
       </div>-->
       <div class="post-content">
         {% for post in site.posts %}
-        <a href="{{site.baseurl}}/{{post.permalink}}">{{post.title}}</a>
+        <a href="{{site.baseurl}}/{{post.permalink}}">{{post.title| replace: " ", "&nbsp;"}}</a>
         {% unless forloop.last %}&nbsp;|&nbsp;{% endunless %}
       {% endfor %}
       </div>
