@@ -92,6 +92,7 @@ layout: compress
       <div class="post-content">
         {% for post in site.posts %}
         <a href="{{site.baseurl}}/{{post.permalink}}">{{post.title}}</a>
+        {% unless forloop.last %}&nbsp;|&nbsp;{% endunless %}
       {% endfor %}
       </div>
     </div>
