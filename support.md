@@ -19,6 +19,7 @@ Even if you don't have any money, there are lots of ways to support and help the
 - **Suggest new features and functionality**. [Create an issue](https://github.com/mrlacey/Rapid-XAML-Toolkit/issues/new/choose) with details of what you want, need, or would like to see.
 - **Contribute** to the code, docs, or anything else. Start by commenting on, or raising an [issue](https://github.com/mrlacey/Rapid-XAML-Toolkit/issues) with details of how you'd like to get involved.
 
+
 ### How your money can help
 
 While the tools are available for free, the time spent developing and maintaining them isn't. Your financial support helps ensure ongoing development and the ability to prioritize dealing with issues and questions.
@@ -28,6 +29,9 @@ If you're using these tools as part of professional development, consider paying
 - **Show your ongoing support** by [becoming a sponsor](https://github.com/sponsors/mrlacey). There are sponsorship levels to support all budgets.
 - **Make a one-time contribution** through [buymeacoffee](https://www.buymeacoffee.com/mrlacey) or [ko-fi](https://ko-fi.com/mrlacey).
 - [Get in touch](mailto:support@rapidxaml.dev) to discuss other options, such as **Paid support**, **Training** or **Custom development**.
+
+
+
 
 ## Get support
 
