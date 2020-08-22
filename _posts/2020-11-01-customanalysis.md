@@ -14,7 +14,7 @@ If you say how an issue should be addressed, integration with Visual Studio hand
 
 ![List of Quick Actions displayed in the Visual Studio XAML editor](./assets/img/posts/example-custom-quickaction.png)
 
-There are [full details on creating custom analyzers](https://github.com/mrlacey/Rapid-XAML-Toolkit/blob/master/docs/custom-analysis.md) on GitHub.
+There are [full details on creating custom analyzers](https://github.com/mrlacey/Rapid-XAML-Toolkit/blob/main/docs/custom-analysis.md) on GitHub.
 
 This functionality is provided through a [NuGet package](https://www.nuget.org/packages/RapidXamlCustomAnalysis) that must be referenced separately to installing the toolkit.
 
