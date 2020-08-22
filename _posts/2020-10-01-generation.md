@@ -18,7 +18,7 @@ Or generate XAML for the entire class by **dragging the file** onto the XAML edi
 
 Whether you're building a **WPF**, **UWP**, or **Xamarin.Forms**, it's pre-configured with a number of options but can also be configured to produce the XAML you would write yourself.
 
-[Configurable options](https://github.com/mrlacey/Rapid-XAML-Toolkit/blob/master/docs/configuration.md) allow you to map classes, properties, and methods and the XAML to generate based on types, names, accessibility, and attributes.
+[Configurable options](https://github.com/mrlacey/Rapid-XAML-Toolkit/blob/main/docs/configuration.md) allow you to map classes, properties, and methods and the XAML to generate based on types, names, accessibility, and attributes.
 
 ![Mappings configuration screen](./assets/img/posts/edit-profile.png)
 
