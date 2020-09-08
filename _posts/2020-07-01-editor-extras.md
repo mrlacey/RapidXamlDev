@@ -6,7 +6,11 @@ featured-img: editor-extras
 permalink: editor-extras
 ---
 
-details to follow ...
+Improve the editor experience.
+
+See the symbols and glyphs defined in the XAML.
+
+![Examples of symbols being visualized](./assets/img/posts/example-symbol-visualiser.png)
 
 ---
 
