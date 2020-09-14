@@ -5,13 +5,13 @@ layout: page
 
 ## Show your support
 
-These tools available for free to allow them to be used by as many people as possible. They can save you time and help you build great software. Price shouldn't be a barrier to making it easier for developers to create fantastic software.
+These tools are available for free to allow them to be used by as many people as possible. They can save you time and help you build great software. Price shouldn't be a barrier to making it easier for developers to create fantastic software.
 
 Whether you have money or not, there are things you can do to help support the ongoing development of these tools.
 
-### Things that you can do that don't cost money
+### Things you can do that don't cost money
 
-Even if you don't have any money, there are lots of ways to support and help the growth and continuation of development.
+If you don't have any money, there are lots of ways to support and help the growth and continuation of development.
 
 - Give the project a ⭐ [**on GitHub**](https://github.com/mrlacey/Rapid-XAML-Toolkit). _To show others you find this useful._
 - It only takes a few seconds to [**rate these tools**](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.RapidXamlToolkit&ssr=false#review-details). _Ratings show other potential users that you have found value from using these tools._
@@ -29,9 +29,6 @@ If you're using these tools as part of professional development, consider paying
 - **Show your ongoing support** by [becoming a sponsor](https://github.com/sponsors/mrlacey). There are sponsorship levels to support all budgets.
 - **Make a one-time contribution** through [buymeacoffee](https://www.buymeacoffee.com/mrlacey) or [ko-fi](https://ko-fi.com/mrlacey).
 - [Get in touch](mailto:support@rapidxaml.dev) to discuss other options, such as **Paid support**, **Training** or **Custom development**.
-
-
-
 
 ## Get support
 
