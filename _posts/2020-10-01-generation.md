@@ -1,7 +1,7 @@
 ---
 layout: post
 title: XAML Generation
-summary: Accelerate XAML app development by generating XAML.
+summary: Accelerate XAML app development by generating XAML from your ViewModel.
 featured-img: generation
 permalink: generation
 ---
