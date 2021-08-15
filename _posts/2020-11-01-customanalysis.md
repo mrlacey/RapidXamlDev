@@ -16,7 +16,7 @@ If you say how an issue should be addressed, integration with Visual Studio hand
 
 There are [full details on creating custom analyzers on GitHub](https://github.com/mrlacey/Rapid-XAML-Toolkit/blob/main/docs/custom-analysis.md).
 
-This functionality is provided through a [NuGet package](https://www.nuget.org/packages/RapidXamlCustomAnalysis) that must be referenced separately to installing the toolkit.
+This functionality is provided through a [NuGet package](https://www.nuget.org/packages/RapidXaml.CustomAnalysis) that must be referenced separately to installing the toolkit.
 
 ---
 
