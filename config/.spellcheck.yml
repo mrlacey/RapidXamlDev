@@ -1,7 +1,6 @@
 matrix:
 - name: Markdown
-  source_files:
-  - "readme.md _posts/*.md"
+  source_files: "readme.md" "_posts/*.md"
   default_encoding: utf-8
   aspell:
     lang: en
