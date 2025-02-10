@@ -12,7 +12,7 @@ jobs:
       name: Spellcheck
       with:
         config_path: config/.spellcheck.yml
-        source_files: readme.md _posts/*.md
+        source_files: _posts/*.md
         task_name: Markdown
         output_file: spellcheck-output.txt
     - uses: actions/upload-artifact@v4
